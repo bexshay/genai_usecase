@@ -1,5 +1,5 @@
 # Google genai use-case
-Trying to extract financial data from PDF files (Air Canada annual fincnail reports).
+Trying to extract financial data from PDF files (Air Canada annual financial reports).
 
 
 ## references

@@ -5,3 +5,4 @@ Trying to extract financial data from PDF files (Air Canada annual financial rep
 ## references
 - [how to create API key](https://aistudio.google.com/api-keys)
 - [Gemini quick start](https://ai.google.dev/gemini-api/docs/quickstart)
+- [On Embeddings](https://ai.google.dev/gemini-api/docs/embeddings)
